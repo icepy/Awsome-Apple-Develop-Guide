@@ -28,15 +28,9 @@ IOS开发者博客，您可以：
 
 [swift tips](http://swifter.tips/)
 
+##框架
+
 [TestingWithXcode中文文档](https://github.com/CocoaChinaTranslationTeam/TestingWithXcodeDocsCN)
-
-##设计
-
-[iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-
-[iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
-
-[mobile设计](http://www.mobile-patterns.com/)
 
 ##视频
 
@@ -55,6 +49,14 @@ IOS开发者博客，您可以：
 [cocoachina](http://www.cocoachina.com/)
 
 [swiftV课堂](http://www.swiftv.cn/school)
+
+##设计
+
+[iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+[iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
+
+[mobile设计](http://www.mobile-patterns.com/)
 
 ##其他
 
