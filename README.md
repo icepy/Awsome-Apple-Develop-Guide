@@ -42,6 +42,8 @@ IOS开发者博客，您可以：
 
 [征战Objective-C](http://www.imooc.com/learn/218) 
 
+[斯坦福大学公开课：iOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
+
 ##社区
 
 [ios技术周报](http://weekly.ios-wiki.com/)
