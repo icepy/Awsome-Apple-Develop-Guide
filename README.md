@@ -20,6 +20,8 @@ IOS开发者博客，您可以：
 
 ##语言
 
+[iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
+
 [中文版 Apple 官方 Swift 教程《The Swift Programming Language》](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
 [Using Swift with Cocoa and Objective-C中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
