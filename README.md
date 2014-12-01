@@ -32,7 +32,9 @@ iOS开发者博客，您可以：
 
 [关注被忽略的 Objective-C、Swift 和 Cocoa 特性](http://nshipster.cn/)
 
-[swift tips](http://swifter.tips/)
+[Swift tips](http://swifter.tips/)
+
+[SwiftGuide](https://github.com/ipader/SwiftGuide)
 
 ##结构
 
@@ -48,11 +50,25 @@ iOS开发者博客，您可以：
 
 [斯坦福大学公开课：IOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
 
-##例子Demo
+##例子
 
 [购物商城的Demo](https://github.com/linqiang/Demo)
 
 [斯坦福大学公开课：iOS 7 应用开发 Demo](https://github.com/jkyin/Subtitle)
+
+[iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos)
+
+##集合
+
+[优秀外文翻译资源集合](https://github.com/CocoaChinaTranslationTeam/Excellent-Articles-Translations)
+
+[Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+
+[2013 CocoaChina微信精选之技术汇](http://www.cocoachina.com/industry/20140103/7651.html?utm_campaign=ios_wiki_dev_issue_1&utm_source=ios_wiki_com&utm_medium=website)
+
+[iOS 无障碍开发指导](https://github.com/numbbbbb/Accessibility-Programming-Guide-for-iOS)
+
+[一些 iOS / Web 开发相关的翻译或原创博客文章](https://github.com/nixzhu/dev-blog)
 
 ##社区
 
@@ -73,13 +89,3 @@ iOS开发者博客，您可以：
 [iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
 
 [mobile设计](http://www.mobile-patterns.com/)
-
-##其他
-
-[优秀外文翻译资源集合](https://github.com/CocoaChinaTranslationTeam/Excellent-Articles-Translations)
-
-[Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
-
-[2013 CocoaChina微信精选之技术汇](http://www.cocoachina.com/industry/20140103/7651.html?utm_campaign=ios_wiki_dev_issue_1&utm_source=ios_wiki_com&utm_medium=website)
-
-[iOS 无障碍开发指导](https://github.com/numbbbbb/Accessibility-Programming-Guide-for-iOS)
