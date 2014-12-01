@@ -18,7 +18,7 @@ iOS开发者博客，您可以：
 
 [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
-[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html)
+[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html#//apple_ref/doc/uid/TP40012668-CH2-SW1)
 
 ##语言
 
@@ -51,6 +51,8 @@ iOS开发者博客，您可以：
 ##例子Demo
 
 [购物商城的Demo](https://github.com/linqiang/Demo)
+
+[斯坦福大学公开课：iOS 7 应用开发 Demo](https://github.com/jkyin/Subtitle)
 
 ##社区
 
