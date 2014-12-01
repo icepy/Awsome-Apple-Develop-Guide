@@ -6,7 +6,7 @@
 
 IOS开发者博客，您可以：
 
-* 使用 [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)添加或者订阅
+* 使用 [IOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)添加或者订阅
 
 ## 学习IOS之前快速预览
 
@@ -14,13 +14,13 @@ IOS开发者博客，您可以：
 
 [MAC开发环境配置](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
-[iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+[IOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
-[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html)
+[Start Developing IOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html)
 
 ##语言
 
-[iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
+[IOS Developer Library](https://developer.apple.com/library/ios/navigation/)
 
 [中文版 Apple 官方 Swift 教程《The Swift Programming Language》](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
@@ -42,11 +42,11 @@ IOS开发者博客，您可以：
 
 [征战Objective-C](http://www.imooc.com/learn/218) 
 
-[斯坦福大学公开课：iOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
+[斯坦福大学公开课：IOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
 
 ##社区
 
-[ios技术周报](http://weekly.ios-wiki.com/)
+[IOS技术周报](http://weekly.ios-wiki.com/)
 
 [objc中国](http://objccn.io/)
 
@@ -58,7 +58,7 @@ IOS开发者博客，您可以：
 
 ##设计
 
-[iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+[IOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 
 [iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
 
@@ -72,4 +72,4 @@ IOS开发者博客，您可以：
 
 [2013 CocoaChina微信精选之技术汇](http://www.cocoachina.com/industry/20140103/7651.html?utm_campaign=ios_wiki_dev_issue_1&utm_source=ios_wiki_com&utm_medium=website)
 
-[iOS 无障碍开发指导](https://github.com/numbbbbb/Accessibility-Programming-Guide-for-iOS)
+[IOS 无障碍开发指导](https://github.com/numbbbbb/Accessibility-Programming-Guide-for-iOS)
