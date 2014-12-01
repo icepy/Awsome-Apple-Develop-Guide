@@ -34,9 +34,11 @@ iOS开发者博客，您可以：
 
 [swift tips](http://swifter.tips/)
 
-##框架
+##结构
 
 [TestingWithXcode中文文档](https://github.com/CocoaChinaTranslationTeam/TestingWithXcodeDocsCN)
+
+[iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
 
 ##视频
 
