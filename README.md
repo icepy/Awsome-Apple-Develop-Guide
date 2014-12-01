@@ -4,7 +4,7 @@
 
 * 使用 [Issues](https://github.com/lcepy/ios-programming-books-zh_CN/issues) 以及 Pull Request
 
-IOS开发者博客，您可以：
+iOS开发者博客，您可以：
 
 * 使用 [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)添加或者订阅
 
@@ -45,6 +45,10 @@ IOS开发者博客，您可以：
 [征战Objective-C](http://www.imooc.com/learn/218) 
 
 [斯坦福大学公开课：IOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
+
+##例子Demo
+
+[购物商城的Demo](https://github.com/linqiang/Demo)
 
 ##社区
 
