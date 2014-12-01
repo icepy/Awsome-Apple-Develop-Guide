@@ -7,3 +7,30 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "game.h"
+
+@implementation GameInfomation
+
+-(void) outInfomation
+{
+    NSLog(@"游戏名字：%@",gameName);
+    NSLog(@"游戏开发商：%@",gameDeveloper);
+    NSLog(@"游戏运营时间：%ld年",gameTime);
+}
+
+-(void)setGameName:(NSString *)_gameName
+{
+    gameName = _gameName;
+}
+
+-(void)setGameDeveloper:(NSString *)_gameDeveloper
+{
+    gameDeveloper = _gameDeveloper;
+}
+
+-(void)setGameTime:(NSInteger)_gameTime
+{
+    gameTime = _gameTime;
+}
+
+@end

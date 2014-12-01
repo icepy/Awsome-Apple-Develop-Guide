@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		174C13051A2C9D2000609725 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 174C13041A2C9D2000609725 /* main.m */; };
+		174C130D1A2C9F5500609725 /* game.m in Sources */ = {isa = PBXBuildFile; fileRef = 174C130C1A2C9F5500609725 /* game.m */; };
+		174C13131A2CA30200609725 /* blizzard.m in Sources */ = {isa = PBXBuildFile; fileRef = 174C13121A2CA30200609725 /* blizzard.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		174C13011A2C9D2000609725 /* 类继承初始化便利构造器 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "类继承初始化便利构造器"; sourceTree = BUILT_PRODUCTS_DIR; };
 		174C13041A2C9D2000609725 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		174C130B1A2C9F2B00609725 /* game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
+		174C130C1A2C9F5500609725 /* game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = game.m; sourceTree = "<group>"; };
+		174C130E1A2CA27600609725 /* blizzard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blizzard.h; sourceTree = "<group>"; };
+		174C13121A2CA30200609725 /* blizzard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = blizzard.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,10 @@
 			isa = PBXGroup;
 			children = (
 				174C13041A2C9D2000609725 /* main.m */,
+				174C130B1A2C9F2B00609725 /* game.h */,
+				174C130C1A2C9F5500609725 /* game.m */,
+				174C130E1A2CA27600609725 /* blizzard.h */,
+				174C13121A2CA30200609725 /* blizzard.m */,
 			);
 			path = "类继承初始化便利构造器";
 			sourceTree = "<group>";
@@ -118,7 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				174C13131A2CA30200609725 /* blizzard.m in Sources */,
 				174C13051A2C9D2000609725 /* main.m in Sources */,
+				174C130D1A2C9F5500609725 /* game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
