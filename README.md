@@ -8,7 +8,7 @@ iOS开发者博客，您可以：
 
 * 使用 [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)添加或者订阅
 
-## 学习IOS之前快速预览
+## 学习iOS之前快速预览
 
 ![iOS学习路线图](http://websources.qiniudn.com/img/IOS学习路线.jpg)
 
