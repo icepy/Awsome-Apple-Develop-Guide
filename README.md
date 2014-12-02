@@ -36,12 +36,6 @@ iOS开发者博客，您可以：
 
 [SwiftGuide](https://github.com/ipader/SwiftGuide)
 
-##结构
-
-[TestingWithXcode中文文档](https://github.com/CocoaChinaTranslationTeam/TestingWithXcodeDocsCN)
-
-[iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
-
 ##视频
 
 [玩儿转Swift](http://www.imooc.com/learn/127)
@@ -70,6 +64,22 @@ iOS开发者博客，您可以：
 
 [一些 iOS / Web 开发相关的翻译或原创博客文章](https://github.com/nixzhu/dev-blog)
 
+[Alamofire网络库基础教程](http://www.jianshu.com/p/f1208b5e42d9)
+
+[理解 Objective-C 的 ARC](http://www.imooc.com/wenda/detail/238393)
+
+[TestingWithXcode中文文档](https://github.com/CocoaChinaTranslationTeam/TestingWithXcodeDocsCN)
+
+[iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
+
+##设计
+
+[iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+[iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
+
+[mobile设计](http://www.mobile-patterns.com/)
+
 ##社区
 
 [iOS技术周报](http://weekly.ios-wiki.com/)
@@ -81,11 +91,3 @@ iOS开发者博客，您可以：
 [cocoachina](http://www.cocoachina.com/)
 
 [swiftV课堂](http://www.swiftv.cn/school)
-
-##设计
-
-[iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-
-[iphone6 屏幕设计揭秘](http://wileam.com/iphone-6-screen-cn/)
-
-[mobile设计](http://www.mobile-patterns.com/)
