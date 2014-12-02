@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA4E04F9-BAF0-460E-ACDC-E9A5A598BA95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>内存管理与属性的使用</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA5C1CC5BABF5B0554E2347A0772F33C18817416</key>
+		<string>github.com:lcepy/ios-programming-books-zh_CN.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>objective-c/内存管理与属性的使用/内存管理与属性的使用.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA5C1CC5BABF5B0554E2347A0772F33C18817416</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:lcepy/ios-programming-books-zh_CN.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA5C1CC5BABF5B0554E2347A0772F33C18817416</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA5C1CC5BABF5B0554E2347A0772F33C18817416</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-programming-books-zh_CN</string>
+		</dict>
+	</array>
+</dict>
+</plist>

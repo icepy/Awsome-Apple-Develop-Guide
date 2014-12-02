@@ -10,4 +10,10 @@
 
 @interface camp : NSObject
 
+@property(nonatomic,copy) NSString * Wname;
+
+-(void)dealloc;
+
+-(void)toStringInfomation:(NSString *)campName myGameName:(NSString *)myGameName myGameLe:(NSInteger)myGameLe;
+
 @end

@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		17A7B4E71A2CDEA700DFD352 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A7B4E61A2CDEA700DFD352 /* main.m */; };
+		17A7B4F11A2CDF0C00DFD352 /* alliance.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A7B4EE1A2CDF0C00DFD352 /* alliance.m */; };
+		17A7B4F21A2CDF0C00DFD352 /* camp.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A7B4F01A2CDF0C00DFD352 /* camp.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		17A7B4E31A2CDEA700DFD352 /* 内存管理与属性的使用 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "内存管理与属性的使用"; sourceTree = BUILT_PRODUCTS_DIR; };
 		17A7B4E61A2CDEA700DFD352 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		17A7B4ED1A2CDEFB00DFD352 /* alliance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = alliance.h; sourceTree = "<group>"; };
+		17A7B4EE1A2CDF0C00DFD352 /* alliance.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = alliance.m; sourceTree = "<group>"; };
+		17A7B4EF1A2CDF0C00DFD352 /* camp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = camp.h; sourceTree = "<group>"; };
+		17A7B4F01A2CDF0C00DFD352 /* camp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = camp.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,10 @@
 		17A7B4E51A2CDEA700DFD352 /* 内存管理与属性的使用 */ = {
 			isa = PBXGroup;
 			children = (
+				17A7B4EF1A2CDF0C00DFD352 /* camp.h */,
+				17A7B4F01A2CDF0C00DFD352 /* camp.m */,
+				17A7B4ED1A2CDEFB00DFD352 /* alliance.h */,
+				17A7B4EE1A2CDF0C00DFD352 /* alliance.m */,
 				17A7B4E61A2CDEA700DFD352 /* main.m */,
 			);
 			path = "内存管理与属性的使用";
@@ -118,7 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17A7B4F11A2CDF0C00DFD352 /* alliance.m in Sources */,
 				17A7B4E71A2CDEA700DFD352 /* main.m in Sources */,
+				17A7B4F21A2CDF0C00DFD352 /* camp.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,7 +144,7 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
@@ -172,7 +184,7 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
@@ -202,6 +214,7 @@
 		17A7B4EB1A2CDEA700DFD352 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -209,6 +222,7 @@
 		17A7B4EC1A2CDEA700DFD352 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
