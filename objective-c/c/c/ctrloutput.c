@@ -58,3 +58,31 @@ void arrayParam1(int b[])
     b[0] = 1;
 }
 
+void twodArray()
+{
+    //声明一个二维数组  按行存储，两行三列
+    int ta[2][3] = {{1,2,3},{4,5,6}};
+    
+    printf("ta的地址：%d\n",ta);
+    printf("ta的地址：%d\n",ta[0]);
+    printf("ta的地址：%d\n",&ta[0][0]);
+    
+}
+
+void createString()
+{
+    /*
+        char类型的字符数组
+     
+        char类型的字符串
+        
+        puts函数可以提供换行，但是如果字符数组未加\0结束符号，会存在溢出的问题
+     
+     */
+    char str[] = {'a','b','\0'};
+    char str1 = "hello C";
+//    char str2[] = {'c','d'};
+    printf("%s\n",str);
+    
+
+}
