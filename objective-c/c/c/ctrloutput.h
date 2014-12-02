@@ -14,4 +14,8 @@
 
 //头文件 用于描述
 
-int output(int);
+void output();
+
+void array1();
+
+void arrayParam1(int b[]);
