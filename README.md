@@ -10,7 +10,7 @@ iOS开发者博客，您可以：
 
 ## 学习iOS之前快速预览
 
-![iOS学习路线图](http://websources.qiniudn.com/img/IOS学习路线.jpg)
+![iOS学习路线图](http://websources.qiniudn.com/img/iOS学习路线.jpg)
 
 [MAC开发环境配置](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
