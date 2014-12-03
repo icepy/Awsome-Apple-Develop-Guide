@@ -127,3 +127,18 @@ void forEach(int *array)
     }
     printf("改变之后指针array %d\n",array);
 }
+
+int func(int a,int b,int (*p)(int,int))
+{
+    return p(a,b);
+}
+
+int sum(int a,int b)
+{
+    return a+b;
+}
+
+int mimes(int a,int b)
+{
+    return a-b;
+}

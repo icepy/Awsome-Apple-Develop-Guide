@@ -34,6 +34,11 @@ void swap(int *a, int *b);
 //返回一个求和求差的两个值
 int sumAndMimus(int a,int b,int *mimuse);
 
-
 //利用指针类型遍历数组
 void forEach(int *array);
+
+//利用指针传递函数
+int func(int a,int b,int (*p)(int,int));
+
+int sum(int a,int b);
+int mimes(int a,int b);

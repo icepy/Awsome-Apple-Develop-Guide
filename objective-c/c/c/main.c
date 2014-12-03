@@ -59,6 +59,8 @@ int main(int argc, const char * argv[]) {
     int *p = ars;
     
     forEach(p);
+    int sums  = func(10, 5, sum);
+    printf("%d\n",sums);
     
     return 0;
 }
