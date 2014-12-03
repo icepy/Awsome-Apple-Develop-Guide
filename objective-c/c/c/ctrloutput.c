@@ -86,3 +86,44 @@ void createString()
     
 
 }
+
+void swap(int *a,int *b)
+{
+    /*
+        明白*a指针变量中存的是外面传入的地址
+     
+        于是可以交换
+     
+     */
+    
+    int temp;
+    temp = *a;
+    *a = *b;
+    *b = temp;
+}
+int sumAndMimus(int a,int b,int *mimuse)
+{
+    *mimuse = a - b;
+    return a+b;
+}
+
+void forEach(int *array)
+{
+    //正常遍历这个数组
+    int a[3] = {4,5,6};
+    for (int i = 0;i<3; i ++) {
+        printf("正常遍历a[%d] = %d\n",i,a[i]);
+    }
+    
+    //指针遍历，不改变array的值
+    for (int k = 0; k<3; k++) {
+        printf("不改变指针a[%d] = %d\n",k,*array+k);
+    }
+    
+    printf("正常指针array %d\n",array);
+    //指针遍历，改变array的值
+    for (int h = 0; h<3; h++) {
+        printf("输出%d\n",*array++);
+    }
+    printf("改变之后指针array %d\n",array);
+}

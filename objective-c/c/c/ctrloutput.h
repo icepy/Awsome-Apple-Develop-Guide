@@ -27,3 +27,13 @@ void twodArray();
 
 //定义字符串
 void createString();
+
+//交换两个值
+void swap(int *a, int *b);
+
+//返回一个求和求差的两个值
+int sumAndMimus(int a,int b,int *mimuse);
+
+
+//利用指针类型遍历数组
+void forEach(int *array);
