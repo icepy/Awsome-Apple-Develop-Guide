@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		179564A01A2E055A004F92F2 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 1795649F1A2E055A004F92F2 /* main.c */; };
 		179564A81A2E05C2004F92F2 /* ctrloutput.c in Sources */ = {isa = PBXBuildFile; fileRef = 179564A71A2E05C2004F92F2 /* ctrloutput.c */; };
+		17E52D9B1A2F64FA00B458EB /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = 17E52D991A2F64FA00B458EB /* test.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		1795649F1A2E055A004F92F2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		179564A61A2E0596004F92F2 /* ctrloutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ctrloutput.h; sourceTree = "<group>"; };
 		179564A71A2E05C2004F92F2 /* ctrloutput.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ctrloutput.c; sourceTree = "<group>"; };
+		17E52D991A2F64FA00B458EB /* test.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
+		17E52D9A1A2F64FA00B458EB /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				1795649F1A2E055A004F92F2 /* main.c */,
 				179564A61A2E0596004F92F2 /* ctrloutput.h */,
 				179564A71A2E05C2004F92F2 /* ctrloutput.c */,
+				17E52D991A2F64FA00B458EB /* test.c */,
+				17E52D9A1A2F64FA00B458EB /* test.h */,
 			);
 			path = c;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17E52D9B1A2F64FA00B458EB /* test.c in Sources */,
 				179564A01A2E055A004F92F2 /* main.c in Sources */,
 				179564A81A2E05C2004F92F2 /* ctrloutput.c in Sources */,
 			);
@@ -238,6 +244,7 @@
 				179564A51A2E055A004F92F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

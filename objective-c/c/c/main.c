@@ -9,6 +9,9 @@
 #include <stdio.h>
 #include <string.h>
 #include "ctrloutput.h"
+#include "test.h"
+
+void test();
 
 int main(int argc, const char * argv[]) {
     // insert code here...
@@ -61,6 +64,13 @@ int main(int argc, const char * argv[]) {
     forEach(p);
     int sums  = func(10, 5, sum);
     printf("%d\n",sums);
-    
+    test();
+    test1();
     return 0;
+    
+}
+
+void test()
+{
+    printf("实现test函数\n");
 }
