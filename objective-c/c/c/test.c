@@ -20,3 +20,13 @@ void test1()
 {
     ccccc();
 }
+void structParamValue(struct Comp comp)
+{
+    comp.age = 24;
+    printf("函数内age=%d\n",comp.age);
+}
+
+void structParam(struct Comp *com)
+{
+    (*com).age = 24;
+}

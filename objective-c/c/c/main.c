@@ -13,6 +13,9 @@
 
 void test();
 
+
+
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     
@@ -58,14 +61,33 @@ int main(int argc, const char * argv[]) {
 //    *b = 10;
 //    printf("%d",a);
     
-    int ars[3] = {1,2,3};
-    int *p = ars;
+//    int ars[3] = {1,2,3};
+//    int *p = ars;
+//    
+//    forEach(p);
+//    int sums  = func(10, 5, sum);
+//    printf("%d\n",sums);
+//    test();
+//    test1();
     
-    forEach(p);
-    int sums  = func(10, 5, sum);
-    printf("%d\n",sums);
-    test();
-    test1();
+    //普通的结构体
+    struct Comp comp = {26,"lcepy",1.73};
+    printf("age=%d\n",comp.age);
+    
+    //数组类型的结构体
+    struct Comp comps[2] = {{26,"lcepy",1.73},{25,"wen",1.72}};
+    printf("name=%s\n",comps[0].name);
+    
+    structParamValue(comp);
+    printf("函数外部age=%d\n",comp.age);
+    
+    //定义一个结构体指针变量
+    struct Comp *com;
+    com = &comp;
+    structParam(com);
+    printf("改变的age=%d\n",(*com).age);
+    printf("改变的age=%d\n",com->age);
+    
     return 0;
     
 }
