@@ -29,3 +29,6 @@ void structParamValue(struct Comp comp);
 
 //传指针结构体变量
 void structParam(struct Comp *com);
+
+//使用typedef
+void useTypedef();

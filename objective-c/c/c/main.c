@@ -88,6 +88,9 @@ int main(int argc, const char * argv[]) {
     printf("改变的age=%d\n",(*com).age);
     printf("改变的age=%d\n",com->age);
     
+    enum season {n,s,d,w};
+    useTypedef();
+    
     return 0;
     
 }

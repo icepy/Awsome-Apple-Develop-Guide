@@ -30,3 +30,37 @@ void structParam(struct Comp *com)
 {
     (*com).age = 24;
 }
+
+void useTypedef()
+{
+    //类型别名，实际上是一个新的类型，这个类型与int是相同的
+    typedef int Interge;
+    Interge a = 12;
+    
+    //结构体起一个别名
+    typedef struct{
+        int age;
+        char *name
+    } Pserson;
+    Pserson p = {12,"lcepy"};
+    
+    //给指针起一个别名
+    typedef char * String;
+    String myName = "lcepy";
+    
+    
+    //给指针指向结构体用一个别名描述
+    typedef struct{
+        int age;
+        char *name
+    } * Psersons;
+    
+    Psersons pser = &p;
+//    pser->age;
+    
+    //给指针指向的函数，用一个别名描述
+    typedef void (*structParams)(struct Comp *com);
+    
+    structParams stp = structParam;
+    (*stp)(pser);
+}
