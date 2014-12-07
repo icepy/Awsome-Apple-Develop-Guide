@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		17E0C7121A3441D5000005AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E0C7111A3441D5000005AB /* main.m */; };
+		17E0C71B1A3465CE000005AB /* Button.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E0C71A1A3465CE000005AB /* Button.m */; };
+		17E0C71D1A346849000005AB /* ButtonDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E0C71C1A346849000005AB /* ButtonDelegate.m */; };
+		17E0C7201A346B99000005AB /* buttonDelegateTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E0C71F1A346B99000005AB /* buttonDelegateTwo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,12 @@
 /* Begin PBXFileReference section */
 		17E0C70E1A3441D5000005AB /* protocol */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = protocol; sourceTree = BUILT_PRODUCTS_DIR; };
 		17E0C7111A3441D5000005AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		17E0C7181A3465AA000005AB /* ButtonDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDelegate.h; sourceTree = "<group>"; };
+		17E0C7191A3465CE000005AB /* Button.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Button.h; sourceTree = "<group>"; };
+		17E0C71A1A3465CE000005AB /* Button.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Button.m; sourceTree = "<group>"; };
+		17E0C71C1A346849000005AB /* ButtonDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonDelegate.m; sourceTree = "<group>"; };
+		17E0C71E1A346B99000005AB /* buttonDelegateTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = buttonDelegateTwo.h; sourceTree = "<group>"; };
+		17E0C71F1A346B99000005AB /* buttonDelegateTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = buttonDelegateTwo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,12 @@
 			isa = PBXGroup;
 			children = (
 				17E0C7111A3441D5000005AB /* main.m */,
+				17E0C7191A3465CE000005AB /* Button.h */,
+				17E0C71A1A3465CE000005AB /* Button.m */,
+				17E0C7181A3465AA000005AB /* ButtonDelegate.h */,
+				17E0C71C1A346849000005AB /* ButtonDelegate.m */,
+				17E0C71E1A346B99000005AB /* buttonDelegateTwo.h */,
+				17E0C71F1A346B99000005AB /* buttonDelegateTwo.m */,
 			);
 			path = protocol;
 			sourceTree = "<group>";
@@ -118,7 +133,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17E0C71D1A346849000005AB /* ButtonDelegate.m in Sources */,
 				17E0C7121A3441D5000005AB /* main.m in Sources */,
+				17E0C71B1A3465CE000005AB /* Button.m in Sources */,
+				17E0C7201A346B99000005AB /* buttonDelegateTwo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
