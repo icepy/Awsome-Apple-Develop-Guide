@@ -12,8 +12,6 @@
 
 #endif
 
-#import <Foundation/Foundation.h>
-
 //定义父类 GameInfomation
 
 @interface GameInfomation:NSObject

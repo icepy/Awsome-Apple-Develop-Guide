@@ -44,3 +44,8 @@
 }
 
 @end
+
+void testfunc()
+{
+    NSLog(@"123");
+}

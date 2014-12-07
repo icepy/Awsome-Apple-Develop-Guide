@@ -244,6 +244,7 @@
 				174C130A1A2C9D2000609725 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

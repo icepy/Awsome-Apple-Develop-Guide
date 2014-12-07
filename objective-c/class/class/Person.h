@@ -12,7 +12,6 @@
 
 #endif
 
-#import <Foundation/Foundation.h>
 
 /*
     @interface 申明一个类，冒号后是继承至NSObject
@@ -48,3 +47,5 @@
 -(NSString *) getName;
 
 @end
+
+void testfunc();

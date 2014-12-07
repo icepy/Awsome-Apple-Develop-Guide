@@ -19,5 +19,7 @@ int main(int argc, const char * argv[]) {
     //设置一个name
     [ren setName:@"wen"];
     [ren sayHi];
+    
+    testfunc();
     return 0;
 }
