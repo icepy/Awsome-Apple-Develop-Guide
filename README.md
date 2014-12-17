@@ -76,6 +76,8 @@ iOS开发者博客，您可以：
 
 [iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
 
+[苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117/)
+
 ##设计
 
 [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
