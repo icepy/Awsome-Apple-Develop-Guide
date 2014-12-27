@@ -80,6 +80,8 @@ iOS开发者博客，您可以：
 
 [苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117/)
 
+[iOS开发的一些奇巧淫技](http://www.jianshu.com/p/50b63a221f09)
+
 ##设计
 
 [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
