@@ -82,6 +82,8 @@ iOS开发者博客，您可以：
 
 [iOS开发的一些奇巧淫技](http://www.jianshu.com/p/50b63a221f09)
 
+[我推荐的一些iOS开发书单 叶孤城___](http://www.jianshu.com/p/2fa080673842)
+
 ##设计
 
 [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
