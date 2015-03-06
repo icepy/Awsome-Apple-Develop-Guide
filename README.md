@@ -42,13 +42,19 @@ iOS开发者博客，您可以：
 
 [SwiftGuide](https://github.com/ipader/SwiftGuide)
 
+[Swift开发游戏步骤](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675)
+
 ##视频
 
 [玩儿转Swift](http://www.imooc.com/learn/127)
 
 [征战Objective-C](http://www.imooc.com/learn/218) 
 
-[斯坦福大学公开课：IOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
+[斯坦福大学公开课：iOS 7应用开发](http://v.163.com/special/opencourse/ios7.html)
+
+[斯坦福大学公开课：Swift开发iOS 8应用－中文字幕](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+
+[斯坦福大学公开课：Swift开发iOS 8应用](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
 ##例子
 
@@ -84,6 +90,10 @@ iOS开发者博客，您可以：
 
 [我推荐的一些iOS开发书单 叶孤城___](http://www.jianshu.com/p/2fa080673842)
 
+[Swift指针的使用](http://onevcat.com/2015/01/swift-pointer/)
+
+[iOS性能优化](http://www.jianshu.com/p/9e1f0b44935c)
+
 ##设计
 
 [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
@@ -98,8 +108,8 @@ iOS开发者博客，您可以：
 
 [objc中国](http://objccn.io/)
 
-[swift社区](http://swiftist.org/)
-
 [cocoachina](http://www.cocoachina.com/)
 
-[swiftV课堂](http://www.swiftv.cn/school)
+[SwiftV课堂](http://www.swiftv.cn/school)
+
+[Swift社区](http://swiftist.org/)
