@@ -42,6 +42,8 @@ iOS开发者博客，您可以：
 
 [Swift tips](http://swifter.tips/)
 
+[Swift基础(一)](http://cubernet.cn/blog/swift-1/)
+
 [SwiftGuide](https://github.com/ipader/SwiftGuide)
 
 [Swift开发游戏步骤](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675)
@@ -49,6 +51,16 @@ iOS开发者博客，您可以：
 [关于iOS编码规范](http://www.jianshu.com/p/d46fb9d72ddb?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
 [C 语言中的指针和内存泄漏](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=204340894&idx=1&sn=cf7d5b0a9e3a198a39111fb07b0685e5#rd)
+
+[C/C++编程的现代习惯](http://www.ideawu.net/blog/archives/878.html)
+
+[Objective-C开发编码规范](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206155008&idx=1&sn=360b4f02a9f9aea2cdd21f9253140276#rd)
+
+[Objective-C开发编码规范（续）](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208035695&idx=2&sn=b5069f3429308204dec4dd459bc4652f#rd)
+
+[Swift扩展的三个微妙细节](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206573834&idx=5&sn=b18dc313960fada8e84b76efabd3175c#rd)
+
+[Objective-C类成员变量深度剖析](http://quotation.github.io/objc/2015/05/21/objc-runtime-ivar-access.html)
 
 ##视频
 
@@ -144,6 +156,38 @@ iOS开发者博客，您可以：
 
 [iOS应用架构谈系列](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 
+[GCD概述、语法以及好的示例](https://github.com/bboyfeiyu/iOS-tech-frontier/blob/master/issue-2/GCD%E6%A6%82%E8%BF%B0%E3%80%81%E8%AF%AD%E6%B3%95%E4%BB%A5%E5%8F%8A%E5%A5%BD%E7%9A%84%E7%A4%BA%E4%BE%8B.md)
+
+[详解Swift中的iOS设计模式](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=207789673&idx=1&sn=15683e2b9c939f9e21084b4e65df9b92#rd)
+
+[通过减少动态派送提升性能](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208119666&idx=1&sn=b85d6532b7804cdeb2accb5e8aea3c38#rd)
+
+[NSString属性什么时候用copy，什么时候用strong?](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206285714&idx=5&sn=2048f89ee84149bac671ce8e204ec277#rd)
+
+[NSRecursiveLock递归锁的使用](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206321222&idx=8&sn=71171f2298c2ed6d72015b942733f607#rd)
+
+[在iOS上以root身份运行守护进程](http://cubernet.cn/blog/rootdaemon/)
+
+[在iOS8 下用Swift 创建自定义的键盘](http://www.yming9.com/?p=579)
+
+[Swift和自动引用计数(ARC)整理之强，弱和无主引用](http://www.devtf.cn/?p=462)
+
+[iOS开发中两个常见问题的处理](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206483177&idx=2&sn=0431f8a7673bf6633643c23e1776fcdd#rd)
+
+[iOS 8增强的自动布局功能](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206448996&idx=3&sn=895663ec96a8469820b54b6536975340#rd)
+
+[Masonry介绍与使用实践(快速上手Autolayout)](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)
+
+[Theos介绍](http://cubernet.cn/blog/theos1/)
+
+[iOS中几种定时器 - 控制了时间，就控制了一切](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206637839&idx=7&sn=d5719f4c59753143c288de6d6206832b#rd)
+
+[iOS动画——ViewAnimations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206678143&idx=4&sn=1a1031d93296bce1cad66741cd2736cd#rd)
+
+[自己动手写一个 iOS 网络请求库（一）—— NSURLSession 初探](http://lvwenhan.com/ios/454.html)
+
+[iOS动画——Layer Animations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206718165&idx=6&sn=17c3a363f49df7a90a4e973b9c6d9af6#rd)
+
 ##项目收集
 
 [iOS常用框架](http://www.jianshu.com/p/e7fc525f342d?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
@@ -155,6 +199,12 @@ iOS开发者博客，您可以：
 [一些知名App用到的第三方库汇总](http://www.jianshu.com/p/c5b0eb58b878)
 
 [Github优秀开源项目大全-iOS](http://foggry.com/blog/2014/04/25/githubyou-xiu-xiang-mu-ios/)
+
+[[iOS单元测试系列]单元测试框架选型](http://zixun.github.io/blog/2015/04/11/iosdan-yuan-ce-shi-xi-lie-dan-yuan-ce-shi-kuang-jia-xuan-xing/)
+
+[收集整理了下iOS平台下比较主流炫酷的几款动画框架](https://github.com/sxyx2008/awesome-ios-animation)
+
+[微软前员工：开发Apple Watch应用的27个技巧](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208550104&idx=1&sn=83eca61921efd512c42ec9e68ca6b492#rd)
 
 ##设计
 
