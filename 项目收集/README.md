@@ -29,3 +29,8 @@
 [一些 iOS / Web 开发相关的翻译或原创博客文章](https://github.com/nixzhu/dev-blog)
 
 [苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117/)
+
+[iOS项目的持续集成与管理](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209849033&idx=2&sn=59b5aa163d0be134afbbe951e55ea708#rd)
+
+[（译）WebViewJavascriptBridge－Obj-C和JavaScript互通消息的桥梁](http://www.coderyi.com/archives/751)
+

@@ -73,3 +73,15 @@
 [Theos介绍](http://cubernet.cn/blog/theos1/)
 
 [iOS中几种定时器 - 控制了时间，就控制了一切](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206637839&idx=7&sn=d5719f4c59753143c288de6d6206832b#rd)
+
+[iOS view的frame和bounds之区别（位置和大小）](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=208071791&idx=5&sn=8fd1f5ae65611a4de7ce3885db28dc6f#rd)
+
+[iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
+
+[如何实现一个不规则排列的图片布局算法 | 干货](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=208000068&idx=2&sn=a4fdbf1858302470cab8b0d4bf3484cd#rd)
+
+[响应式视图](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209655681&idx=2&sn=9f89d8d1ecb393db58c3e064d713b9b5#rd)
+
+[2015 Objective-C 三大新特性 | 干货](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=207857740&idx=2&sn=95d11ae018381f7b711320f406f800ab#rd)
+
+[“自释放”在iOS开发中的应用](http://www.olinone.com/?p=232)

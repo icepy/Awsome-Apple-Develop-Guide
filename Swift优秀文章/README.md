@@ -23,3 +23,13 @@
 [iOS动画——ViewAnimations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206678143&idx=4&sn=1a1031d93296bce1cad66741cd2736cd#rd)
 
 [iOS动画——Layer Animations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206718165&idx=6&sn=17c3a363f49df7a90a4e973b9c6d9af6#rd)
+
+[ReactiveCocoa 3.0 初窥](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209907200&idx=1&sn=4c3d467cc76980209ed55ae8d08694f5#rd)
+
+[Swift 2 有哪些新特性[译]](http://www.jianshu.com/p/2dc639b2675a)
+
+[如何使用Instruments诊断App（Swift版）：起步](http://www.cocoachina.com/cms/wap.php?action=article&id=12237)
+
+[理解 ARC 下的循环引用](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209755668&idx=1&sn=383f306a3cc8cf2463a0a2c951ce17f6#rd)
+
+[Swift 2.0初探](http://www.devtalking.com/articles/what-is-new-in-swift/)
