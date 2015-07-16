@@ -26,6 +26,10 @@ iOS开发者博客，您可以：
 * [cocoachina](http://www.cocoachina.com/)
 * [Swift社区](http://swiftist.org/)
 
+##iOS面试题
+
+[iOS有用的面试题](iOS-usefulInterviewquestions-zh_CN)
+
 ##建议－学习iOS之前快速预览一下
 
 ![iOS学习路线图](http://websources.qiniudn.com/img/iOS学习路线.jpg)
