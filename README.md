@@ -29,3 +29,5 @@ iOS开发者博客，您可以：
 * [访问社区](社区)
 * [Swift优秀文章](Swift优秀文章)
 * [Objective-C优秀文章](Objective-C优秀文章)
+* [学习路线](http://www.cocoachina.com/special/fornew.html)
+
