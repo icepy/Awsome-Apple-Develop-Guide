@@ -1,6 +1,12 @@
-##iOS-usefulinformation-zh_CN
+##iOS-usefulinformation-zh_CN阅读
 
->Tag v1.0
+>此文档是个人学习iOS开发－阅读收集的资料
+
+- 不管是在湖南，还是在外地的湖南人，学生，或者已经工作的朋友，都可以加入**一起来学iOS（HN）**
+
+- **QQ群:483103713**
+
+- 申请须知：此群有地域限制，申请时需要告知你的家乡是否在湖南省内，属于哪个县市区
 
 ![](dove-696394_640.jpg)
 
@@ -26,7 +32,7 @@ iOS开发者博客，您可以：
 * [cocoachina](http://www.cocoachina.com/)
 * [Swift社区](http://swiftist.org/)
 
-##iOS面试题
+从iOS面试题总结
 
 [iOS有用的面试题](iOS-usefulInterviewquestions-zh_CN)
 
@@ -36,31 +42,35 @@ iOS开发者博客，您可以：
 
 [MAC开发环境配置](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
-[了解一下Objective-C是什么](http://zh.wikipedia.org/zh-cn/Objective-C)
-
 [什么是Swift，如何评价 Swift 语言？](http://www.zhihu.com/question/24002984)
+
+[了解一下Objective-C是什么](http://zh.wikipedia.org/zh-cn/Objective-C)
 
 [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html#//apple_ref/doc/uid/TP40012668-CH2-SW1)
 
+[从零开始学iOS开发的15条建议](http://www.jianshu.com/p/8472ba0f2bb6)
+
 [自学iOS开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html)
 
-##语言学习－这里包括了Swift，Objective-C，C，C++的学习资料
+##语言学习－这里包括了Swift，Objective-C，C，C++
 
-[C 语言中的指针和内存泄漏](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=204340894&idx=1&sn=cf7d5b0a9e3a198a39111fb07b0685e5#rd)
+[中文版 Apple 官方 Swift 教程《The Swift Programming Language》1.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
-[C/C++编程的现代习惯](http://www.ideawu.net/blog/archives/878.html)
+[中文版 Apple 官方 Swift 教程《The Swift Programming Language》2.0](http://wiki.jikexueyuan.com/project/swift/)
 
-[C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/index.html)
+[The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 
-[中文版 Apple 官方 Swift 教程《The Swift Programming Language》](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+[The Official raywenderlich.com Swift Style Guide 中文版](http://swift.gg/2015/08/11/raywenderlich-swift-style-guide/)
 
 [Using Swift with Cocoa and Objective-C中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
 
+[C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/index.html)
+
 [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 
-[The Official raywenderlich.com Swift Style Guide.](https://github.com/raywenderlich/swift-style-guide)
+[Google C++ Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 
 [禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译](https://github.com/oa414/objc-zen-book-cn)
 
@@ -104,11 +114,13 @@ iOS开发者博客，您可以：
 
 [awesome-ios](https://github.com/vsouza/awesome-ios)
 
-##（Objective-C | Swift | 设计） 资源 集合
-
-[Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+##Swift | Objective-C | C/C++ | 设计 资源集合
 
 [Alamofire网络库基础教程](http://www.jianshu.com/p/f1208b5e42d9)
+
+[C 语言中的指针和内存泄漏](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=204340894&idx=1&sn=cf7d5b0a9e3a198a39111fb07b0685e5#rd)
+
+[C/C++编程的现代习惯](http://www.ideawu.net/blog/archives/878.html)
 
 [Swift指针的使用](http://onevcat.com/2015/01/swift-pointer/)
 
@@ -122,8 +134,6 @@ iOS开发者博客，您可以：
 
 [优秀外文翻译资源集合](https://github.com/CocoaChinaTranslationTeam/Excellent-Articles-Translations)
 
-[使用CAReplicatorLayer创建动画](http://www.jianshu.com/p/76c588893b19?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
-
 [详解Swift中的iOS设计模式](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=207789673&idx=1&sn=15683e2b9c939f9e21084b4e65df9b92#rd)
 
 [在iOS8 下用Swift 创建自定义的键盘](http://www.yming9.com/?p=579)
@@ -131,10 +141,6 @@ iOS开发者博客，您可以：
 [Swift和自动引用计数(ARC)整理之强，弱和无主引用](http://www.devtf.cn/?p=462)
 
 [自己动手写一个 iOS 网络请求库（一）—— NSURLSession 初探](http://lvwenhan.com/ios/454.html)
-
-[iOS动画——ViewAnimations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206678143&idx=)
-
-[iOS动画——Layer Animations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206718165&idx=6&sn=17c3a363f49df7a90a4e973b9c6d9af6#rd)
 
 [ReactiveCocoa 3.0 初窥](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209907200&idx=1&sn=4c3d467cc76980209ed55ae8d08694f5#rd)
 
@@ -150,8 +156,6 @@ iOS开发者博客，您可以：
 
 [理解 Objective-C 的 ARC](http://www.imooc.com/wenda/detail/238393)
 
-[iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
-
 [iOS开发的一些奇巧淫技](http://www.jianshu.com/p/50b63a221f09)
 
 [我推荐的一些iOS开发书单 叶孤城___](http://www.jianshu.com/p/2fa080673842)
@@ -163,8 +167,6 @@ iOS开发者博客，您可以：
 [iOS APP 测试点摘要](http://www.jianshu.com/p/e28e8f5c7578?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
 [GCD使用经验与技巧浅谈](http://toutiao.io/r/z71jv)
-
-[截获导航控制器系统返回按钮的点击pop及右滑pop事件](http://www.jianshu.com/p/6376149a2c4c?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
 [iOS 开发实践之 Auto Layout](http://xuexuefeng.com/autolayout/)
 
@@ -192,8 +194,6 @@ iOS开发者博客，您可以：
 
 [iOS富文本组件的实现—DTCoreText源码解析 数据篇](http://blog.cnbang.net/tech/2630/)
 
-[iOS应用架构谈系列](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
-
 [GCD概述、语法以及好的示例](https://github.com/bboyfeiyu/iOS-tech-frontier/blob/master/issue-2/GCD%E6%A6%82%E8%BF%B0%E3%80%81%E8%AF%AD%E6%B3%95%E4%BB%A5%E5%8F%8A%E5%A5%BD%E7%9A%84%E7%A4%BA%E4%BE%8B.md)
 
 [通过减少动态派送提升性能](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208119666&idx=1&sn=b85d6532b7804cdeb2accb5e8aea3c38#rd)
@@ -208,8 +208,6 @@ iOS开发者博客，您可以：
 
 [iOS 8增强的自动布局功能](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206448996&idx=3&sn=895663ec96a8469820b54b6536975340#rd)
 
-[Masonry介绍与使用实践(快速上手Autolayout)](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)
-
 [Theos介绍](http://cubernet.cn/blog/theos1/)
 
 [iOS中几种定时器 - 控制了时间，就控制了一切](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206637839&idx=7&sn=d5719f4c59753143c288de6d6206832b#rd)
@@ -217,10 +215,6 @@ iOS开发者博客，您可以：
 [iOS view的frame和bounds之区别（位置和大小）](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=208071791&idx=5&sn=8fd1f5ae65611a4de7ce3885db28dc6f#rd)
 
 [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
-
-[如何实现一个不规则排列的图片布局算法 | 干货](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=208000068&idx=2&sn=a4fdbf1858302470cab8b0d4bf3484cd#rd)
-
-[响应式视图](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209655681&idx=2&sn=9f89d8d1ecb393db58c3e064d713b9b5#rd)
 
 [2015 Objective-C 三大新特性 | 干货](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=207857740&idx=2&sn=95d11ae018381f7b711320f406f800ab#rd)
 
@@ -260,10 +254,6 @@ iOS开发者博客，您可以：
 
 [[iOS单元测试系列]单元测试框架选型](http://zixun.github.io/blog/2015/04/11/iosdan-yuan-ce-shi-xi-lie-dan-yuan-ce-shi-kuang-jia-xuan-xing/)
 
-[收集整理了下iOS平台下比较主流炫酷的几款动画框架](https://github.com/sxyx2008/awesome-ios-animation)
-
-[微软前员工：开发Apple Watch应用的27个技巧](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208550104&idx=1&sn=83eca61921efd512c42ec9e68ca6b492#rd)
-
 [购物商城的Demo](https://github.com/linqiang/Demo)
 
 [斯坦福大学公开课：iOS 7 应用开发 Demo](https://github.com/jkyin/Subtitle)
@@ -279,6 +269,54 @@ iOS开发者博客，您可以：
 [iOS项目的持续集成与管理](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209849033&idx=2&sn=59b5aa163d0be134afbbe951e55ea708#rd)
 
 [（译）WebViewJavascriptBridge－Obj-C和JavaScript互通消息的桥梁](http://www.coderyi.com/archives/751)
+
+[截获导航控制器系统返回按钮的点击pop及右滑pop事件](http://www.jianshu.com/p/6376149a2c4c?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+
+[UITableView常用属性和方法](http://beauty-soft.net/blog/ceiba/Ios/20140102/680.html)
+
+[Swift新特性 -- 访问控制（Access Control）](http://www.devtalking.com/articles/swift-access-control/)
+
+[ViewController Programming Guide 笔记（一）](http://chengway.in/post/ji-zhu/viewcontroller-programming-guide/presenting-a-view-controller)
+
+[HTTP Live Streaming直播(iOS直播)技术分析与实现](http://www.cnblogs.com/haibindev/archive/2013/01/30/2880764.html)
+
+[Mantle 初步使用](http://ourui.github.io/blog/2014/01/22/mantle-use/)
+
+[使用CAReplicatorLayer创建动画](http://www.jianshu.com/p/76c588893b19?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+
+[iOS动画——ViewAnimations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206678143&idx=)
+
+[iOS动画——Layer Animations](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=206718165&idx=6&sn=17c3a363f49df7a90a4e973b9c6d9af6#rd)
+
+[收集整理了下iOS平台下比较主流炫酷的几款动画框架](https://github.com/sxyx2008/awesome-ios-animation)
+
+[Masonry介绍与使用实践(快速上手Autolayout)](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)
+
+[iOS学习之Autolayout](http://vit0.com/blog/2013/12/07/iosxue-xi-zhi-autolayout/)
+
+[如何实现一个不规则排列的图片布局算法 | 干货](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=208000068&idx=2&sn=a4fdbf1858302470cab8b0d4bf3484cd#rd)
+
+[响应式视图](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=209655681&idx=2&sn=9f89d8d1ecb393db58c3e064d713b9b5#rd)
+
+[微软前员工：开发Apple Watch应用的27个技巧](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=208550104&idx=1&sn=83eca61921efd512c42ec9e68ca6b492#rd)
+
+[Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+
+[Apple Watch开发专题](http://www.cocoachina.com/applewatch/)
+
+[深入理解Objective-C：方法缓存](http://tech.meituan.com/DiveIntoMethodCache.html)
+
+[优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
+
+[一个完整的Core Data应用](http://objccn.io/issue-4-2/)
+
+[iOS安全系列之一：HTTPS](http://oncenote.com/2014/10/21/Security-1-HTTPS/)
+
+[block基础篇](http://www.90159.com/2015/08/10/ios-block-basic-article/)
+
+[block终极篇](http://www.90159.com/2015/08/04/ios-block-ultimate/)
+
+[关于iOS多线程，你看我就够了](http://www.jianshu.com/p/0b0d9b1f1f19)
 
 ##Objective-C Run time
 
@@ -297,3 +335,11 @@ iOS开发者博客，您可以：
 [Objective-C Runtime](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 
 [Objective-C特性：Runtime](http://www.jianshu.com/p/25a319aee33d)
+
+##项目结构经验
+
+[iOS 项目的目录结构能看出你的开发经验](http://www.jianshu.com/p/77a948bcbc38)
+
+[iOS项目架构探索](https://github.com/makeLaugh/TWAPP)
+
+[iOS应用架构谈系列](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
