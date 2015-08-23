@@ -56,6 +56,8 @@ iOS开发者博客，您可以：
 
 [自学iOS开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html)
 
+[学习路线](http://www.cocoachina.com/special/fornew.html)
+
 ##语言学习－这里包括了Swift，Objective-C，C，C++
 
 [中文版 Apple 官方 Swift 教程《The Swift Programming Language》1.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
