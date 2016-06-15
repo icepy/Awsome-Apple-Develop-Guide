@@ -1,10 +1,8 @@
-##iOS-usefulinformation-zh_CN阅读
+## Awsome Apple Develop Guide
 
->此文档是学习iOS开发－阅读收集的资料
+> 此文档是Apple平台开发所使用语言的主流学习资源
 
-欢迎各路大神，学生，或者已经工作的朋友，都可以加入**一起来学iOS（HN）**
-
-**QQ群：483103713**
+欢迎各路大神，学生，或者已经工作的朋友，都可以加入：**QQ群：483103713**
 
 ----
 
@@ -33,8 +31,6 @@ iOS开发者博客，您可以：
 [iOS有用的面试题](iOS-usefulInterviewquestions-zh_CN)
 
 ##建议－学习iOS之前快速预览一下
-
-![iOS学习路线图](http://websources.qiniudn.com/img/iOS学习路线.jpg)
 
 [MAC开发环境配置](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
