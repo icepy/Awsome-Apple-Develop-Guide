@@ -30,7 +30,7 @@ iOS开发者博客，您可以：
 
 [iOS有用的面试题](iOS-usefulInterviewquestions-zh_CN)
 
-##建议－学习iOS之前快速预览一下
+## 建议－学习iOS之前快速预览一下
 
 [MAC开发环境配置](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
@@ -48,7 +48,7 @@ iOS开发者博客，您可以：
 
 [学习路线](http://www.cocoachina.com/special/fornew.html)
 
-##语言学习－这里包括了Swift，Objective-C，C，C++
+## 语言学习－这里包括了Swift，Objective-C，C，C++
 
 [中文版 Apple 官方 Swift 教程《The Swift Programming Language》1.2](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
@@ -84,7 +84,7 @@ iOS开发者博客，您可以：
 
 [WWDC2015下载链接](https://github.com/6david9/WWDC2015)
 
-##精粹
+## 精粹
 
 [一些 iOS / Web 开发相关的翻译或原创博客文章](https://github.com/nixzhu/dev-blog)
 
@@ -312,7 +312,7 @@ iOS开发者博客，您可以：
 
 [关于iOS多线程，你看我就够了](http://www.jianshu.com/p/0b0d9b1f1f19)
 
-##Objective-C Run time
+## Objective-C Run time
 
 [轻松学习之三——IMP指针的作用](http://www.jianshu.com/p/425a39d43d16?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 
@@ -330,7 +330,7 @@ iOS开发者博客，您可以：
 
 [Objective-C特性：Runtime](http://www.jianshu.com/p/25a319aee33d)
 
-##项目结构经验
+## 项目结构经验
 
 [iOS 项目的目录结构能看出你的开发经验](http://www.jianshu.com/p/77a948bcbc38)
 
@@ -338,7 +338,7 @@ iOS开发者博客，您可以：
 
 [iOS应用架构谈系列](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 
-##学习UI
+## 学习UI
 
 [iOS组件之UIScrollView详解](http://segmentfault.com/a/1190000002412930)
 
