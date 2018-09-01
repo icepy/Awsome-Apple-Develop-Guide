@@ -2,10 +2,6 @@
 
 > 此文档是Apple平台开发所使用语言的主流学习资源
 
-欢迎各路大神，学生，或者已经工作的朋友，都可以加入：**QQ群：483103713**
-
-----
-
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![](https://camo.githubusercontent.com/770175f6c01d89c84a020706126a9e6399ff76c4/68747470733a2f2f696d672e736869656c64732e696f2f636f636f61706f64732f702f4b696e676669736865722e7376673f7374796c653d666c6174)
 
@@ -68,7 +64,7 @@ iOS开发者博客，您可以：
 
 [禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译](https://github.com/oa414/objc-zen-book-cn)
 
-##这里包括了一些市面上免费的视频资源
+## 这里包括了一些市面上免费的视频资源
 
 [玩儿转Swift](http://www.imooc.com/learn/127)
 
@@ -108,7 +104,7 @@ iOS开发者博客，您可以：
 
 [awesome-ios](https://github.com/vsouza/awesome-ios)
 
-##Swift | Objective-C | C/C++ | 设计 资源集合
+## Swift | Objective-C | C/C++ | 设计 资源集合
 
 [Alamofire网络库基础教程](http://www.jianshu.com/p/f1208b5e42d9)
 
